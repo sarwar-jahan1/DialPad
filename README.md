@@ -1,4 +1,4 @@
-# new_app
+# test_splash
 
 A new Flutter project.
 
